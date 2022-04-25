@@ -1,2 +1,2 @@
-# Test
-Simple Landing Page.
+# Todoist
+Simple to do list in Python.
